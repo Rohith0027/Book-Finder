@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Book-Finder/static/css/main.994954e8.css",
+    "main.js": "/Book-Finder/static/js/main.70f935e3.js",
+    "static/media/library-img.jpg": "/Book-Finder/static/media/library-img.d08cf95443e9c3ffe2de.jpg",
+    "static/media/cover_not_found.jpg": "/Book-Finder/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/about-img.jpg": "/Book-Finder/static/media/about-img.389d0306cb234281e4e4.jpg",
+    "static/media/logo.png": "/Book-Finder/static/media/logo.e836c3030d6f84a6658a.png",
+    "static/media/loader.svg": "/Book-Finder/static/media/loader.2d23f9fd1718b818f811a735263bd2e5.svg",
+    "index.html": "/Book-Finder/index.html",
+    "main.994954e8.css.map": "/Book-Finder/static/css/main.994954e8.css.map",
+    "main.70f935e3.js.map": "/Book-Finder/static/js/main.70f935e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.994954e8.css",
+    "static/js/main.70f935e3.js"
+  ]
+}
